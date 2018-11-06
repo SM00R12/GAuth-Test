@@ -28,6 +28,9 @@
 
 10) To logout, directly go to logout.php in the browser.
 
+**Example Login**
+  >[login](https://imgur.com/a/qArg7bN)
+
 # Note from myself
 
 I didn't have too much time to work on this, but I tried to get everything nailed down to make it as easy as possible to use in our webpage. This has the basic funcitonality of a Google oAuth login, and I could implement this with Twitter, Facebook, Guthub, etc. 
