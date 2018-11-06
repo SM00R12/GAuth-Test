@@ -32,7 +32,11 @@
 
 I didn't have too much time to work on this, but I tried to get everything nailed down to make it as easy as possible to use in our webpage. This has the basic funcitonality of a Google oAuth login, and I could implement this with Twitter, Facebook, Guthub, etc. 
 
-I don't really have any experience in web programming. So I've been struggling to find an IDE, how to get our webpage to work with everything. (I did get it to work with LocalHost, just beyond that it's difficult to work on top of the already in place login) In short I'm not sure what to change on our own without breaking anything. If anything I'm a little ovewrwhelmed. 
+I don't really have any experience in web programming. So I've been struggling to find an IDE, how to get our webpage to work with everything. (I did get it to work with LocalHost, just beyond that it's difficult to work on top of the already in place login) In short I'm not sure what to change on our own without breaking anything. If anything I'm a little ovewrwhelmed. Styling of everything is confusing as well but I assumed a button could be put next to our traditional login.
+
+Something like: Login, Login with Google, Twitter, Facebook, Etc.
+
+With this I could get started on a user page, but again styling is a major weakpoint of mine.
 
 **Functionality**
   
@@ -41,7 +45,6 @@ I don't really have any experience in web programming. So I've been struggling t
 * **Very** rough 'user' page
 * Index.php getters to be used to add users to database
  
-
 
 
 
