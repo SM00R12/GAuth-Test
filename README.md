@@ -14,7 +14,8 @@
 
 5) Open in your preferred IDE, open the Config.php file. Note the areas noted as Insert Secret and ClientID, these will need to be updated.
 
-6) Head to https://console.cloud.google.com/home
+6) Head to the Google Console page and create a new project.
+  >https://console.cloud.google.com/home
 
 7) Follow this guide on setting up credentials with Google Cloud PLatform. 
   >https://imgur.com/a/f6LMmNN
