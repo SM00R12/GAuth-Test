@@ -37,9 +37,9 @@ I don't really have any experience in web programming. So I've been struggling t
 My idea for this was to get the functionality down of oAuth, as well as have an easily repeatable process to setting it up.
 **Functionality**
   
-*q 
+* q 
  
-*we
+
 
 
 
