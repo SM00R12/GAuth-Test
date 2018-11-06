@@ -14,12 +14,22 @@
 
 5) Open in your preferred IDE, open the Config.php file. Note the areas noted as Insert Secret and ClientID, these will need to be updated.
 
-6) Follow this guide on setting up Credentials with Google Cloud PLatform. 
-  >(LINK)
+6) Follow this guide on setting up credentials with Google Cloud PLatform. 
+  >https://imgur.com/a/f6LMmNN
+  >(Callback URL: http://localhost/GoogleLogin/g-callback.php)
   
- 7)
+7) Now, you should have a file named GAuth-Test in HTDocs, run Apache and open Admin, then open GAuth-Test and attempt to login using Google.
+
+8) This takes the user to an index page displaying "Getters" for the information given. 
+
+9) To logout, directly go to logout.php in the browser.
+
+# Things to Note
+
+test
 
 
 
 
-http://localhost/GoogleLogin/g-callback.php 
+
+ 
