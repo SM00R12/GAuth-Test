@@ -34,10 +34,12 @@ I didn't have too much time to work on this, but I tried to get everything naile
 
 I don't really have any experience in web programming. So I've been struggling to find an IDE, how to get our webpage to work with everything. (I did get it to work with LocalHost, just beyond that it's difficult to work on top of the already in place login) In short I'm not sure what to change on our own without breaking anything. If anything I'm a little ovewrwhelmed. 
 
-My idea for this was to get the functionality down of oAuth, as well as have an easily repeatable process to setting it up.
 **Functionality**
   
-* q 
+* oAuth (Google)
+* Logout
+* **Very** rough 'user' page
+* Index.php getters to be used to add users to database
  
 
 
