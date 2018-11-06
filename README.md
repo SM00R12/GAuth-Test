@@ -1,3 +1,3 @@
-## How To Set-Up
-# OAuth for Google+
-## A
+# How To Set-Up
+### OAuth for Google+
+# A
