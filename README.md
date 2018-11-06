@@ -1,2 +1,2 @@
-# GAuth-Test
-OAuth for Google+
+# How To Set-Up
+--OAuth for Google+
