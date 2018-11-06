@@ -6,7 +6,7 @@
 1) Assumed having already installed XAMPP, pull this repository.
 
 2) Go ahead and download the lastest release of Google's PHP API
-  >https://github.com/googleapis/google-api-php-client/releases
+  >[Google API](https://github.com/googleapis/google-api-php-client/releases)
   
 3) Drop the "google-api-php-client-2.2.2" folder into the main folder of GAuth-Test.
 
@@ -18,7 +18,7 @@
   >[Google Console](https://console.cloud.google.com/home)
 
 7) Follow this guide on setting up credentials with Google Cloud PLatform. 
-  >https://imgur.com/a/f6LMmNN
+  >[Imgure](https://imgur.com/a/f6LMmNN)
   >(Callback URL: http://localhost/GoogleLogin/g-callback.php)
   
 8) Now, you should have a file named GAuth-Test in HTDocs, run Apache and open Admin, then open GAuth-Test and attempt to login using Google.
