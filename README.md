@@ -19,6 +19,7 @@
 
 7) Follow this guide on setting up credentials with Google Cloud PLatform. 
   >[Imgur](https://imgur.com/a/f6LMmNN)
+  
   >[Callback URL](http://localhost/GoogleLogin/g-callback.php)
   
 8) Now, you should have a file named GAuth-Test in HTDocs, run Apache and open Admin, then open GAuth-Test and attempt to login using Google.
